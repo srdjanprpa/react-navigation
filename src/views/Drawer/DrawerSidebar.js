@@ -93,7 +93,7 @@ export default withCachedChildNavigation(DrawerSidebar);
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#202930',
     paddingTop: Platform.OS === 'ios' ? 20 : 0,
   },
 });
